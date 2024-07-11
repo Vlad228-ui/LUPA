@@ -3,3 +3,4 @@
 HUI
 alloha
 zalupa
+ALEKSEY
